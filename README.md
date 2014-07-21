@@ -1,4 +1,4 @@
-Google Analytics - Event Tracking .js Example 
+GA Event Tracking .js Example 
 ====
 **Objective** 
 
